@@ -1,0 +1,26 @@
+.empcart{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    gap: 20px;
+}
+.empcart img{
+    height: 40%;
+    width: 40%;
+}
+.snbtn{
+    /* display: flex;
+    gap: 6px; */
+   
+    padding: 10px 15px;
+    
+    color: white;
+    background-color: #ff6700;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}

@@ -192,6 +192,7 @@ padding: 20px;
     width: 50%;
     padding: 5px;
 }
+
 .pbtn{
     padding: 10px 12px;
     
@@ -203,3 +204,34 @@ padding: 20px;
     cursor: pointer;
     width: 50%; 
 }
+.por1{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    gap: 20px;
+    padding: 20px;
+    }
+    .fi1{
+        display: flex;
+        gap: 15px;
+    }
+    /* .fi input{
+        width: 50%;
+        padding: 5px;
+    } */
+    .fi1 img{
+        height: 60px;
+        width: 70px;
+    }
+    .pbtn1{
+        padding: 10px 12px;
+        
+        color: white;
+        background-color: #ff6700;
+        border-radius: 30px;
+        border: none;
+        font-size: 15px;
+        cursor: pointer;
+        width: 60%; 
+    }
+    
